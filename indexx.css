@@ -1,0 +1,41 @@
+
+
+
+
+#semplice{
+    text-align: center;
+    margin: left;
+    width: right;
+}
+
+
+#logo{
+    display: flex;
+    margin: 2mm auto;
+    width: 15%;
+}
+
+
+.box{
+    text-align: center;
+    margin: left;
+    margin: right;
+    color: brown;
+}
+
+
+
+#Focaccia{
+    color:red
+
+
+}
+
+p{
+    text-align: center;
+    color: brown;
+}
+
+li{
+    text-align: center;
+}
