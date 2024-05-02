@@ -1,11 +1,19 @@
 
+header{
+    text-align: center;
 
+}
+    
+iframe{
+    border-top: 0cm;
+}
 
 
 #semplice{
     text-align: center;
     margin: left;
     width: right;
+    font-style: italic;
 }
 
 
