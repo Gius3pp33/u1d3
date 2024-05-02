@@ -4,9 +4,10 @@ header{
 
 }
     
-iframe{
-    border-top: 0cm;
-}
+#PREFAZIONE{
+    color: rgb(15, 90, 128);  text-align: center; background-color: rgb(248, 224, 183); border-top:5px; padding:0,5em; height:2em; border-top:3px solid rgb(244, 208, 142);
+    }
+
 
 
 #semplice{
